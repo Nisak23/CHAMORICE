@@ -1,0 +1,1 @@
+Current source inspection: the supplied site is static HTML (index.html) with external style.css and script.js references, not a React/TypeScript/Tailwind project. The requested CursorTrail component therefore belongs in a React migration, while the edited static page is supplied as a directly previewable implementation.
